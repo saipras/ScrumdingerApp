@@ -14,16 +14,17 @@ Here’s a closer look at what you’ll build in this module.
 The main screen of the app displays a summary of each of the user’s daily scrums. 
 Users can tap a row in the list to view the details of a scrum or create a new scrum by tapping a button in the navigation bar.
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-12-04 at 18 15 14](https://github.com/saipras/ScrumdingerApp/assets/36514385/3e29d2d5-bc83-45fa-9a00-afcccba96d5c)
+<img src = "https://github.com/saipras/ScrumdingerApp/blob/main/ScreenShots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-12-04%20at%2018.15.14.png" width = "300" height = "800"/>
 
 **Scrum detail and edit**
 The detail screen shows more information about a scrum, including the name of each attendee and a list of previous meetings.
 Users can modify any of the scrum’s attributes by tapping a button in the navigation bar. 
 The edit screen includes a picker with which users can change the color theme of each meeting. 
 Tapping a button the top of the list of attributes starts a new meeting timer.
-![Simulator Screenshot - iPhone 14 Pro - 2023-12-04 at 18 25 20](https://github.com/saipras/ScrumdingerApp/assets/36514385/bd604edf-6f97-43d0-85f8-2cf9ee12e676)
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-12-04 at 18 26 21](https://github.com/saipras/ScrumdingerApp/assets/36514385/587be87c-731f-450d-b9f9-666c41838ba5)
+<img src = "https://github.com/saipras/ScrumdingerApp/blob/main/ScreenShots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-12-04%20at%2018.25.20.png" width = "300" height = "800"/>
+
+<img src = "https://github.com/saipras/ScrumdingerApp/blob/main/ScreenShots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-12-04%20at%2018.15.22.png" width = "300" height = "800"/>
 
 **Meeting timer**
 The progress bar at the top of the meeting timer shows the elapsed and remaining time for the meeting.
@@ -31,4 +32,4 @@ The app displays the name of the current speaker in the center of the screen and
 Segments in a circular progress ring represent each attendee. When an attendee uses all their time, Scrumdinger plays a “ding” sound and adds a new segment to the ring. 
 The meeting ends when the ring is full.
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-12-04 at 18 25 46](https://github.com/saipras/ScrumdingerApp/assets/36514385/c46134cf-3b19-41f1-a476-f61264bb3961)
+<img src = "https://github.com/saipras/ScrumdingerApp/blob/main/ScreenShots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-12-04%20at%2018.25.46.png" width = "300" height = "800"/>
