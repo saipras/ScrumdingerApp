@@ -13,8 +13,8 @@ Here’s a closer look at what you’ll build in this module.
 **Scrum list**
 The main screen of the app displays a summary of each of the user’s daily scrums. 
 Users can tap a row in the list to view the details of a scrum or create a new scrum by tapping a button in the navigation bar.
-https://github.com/saipras/ScrumdingerApp/blob/main/ScreenShots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-12-04%20at%2018.15.22.png
 
+![Simulator Screenshot - iPhone 14 Pro - 2023-12-04 at 18 15 14](https://github.com/saipras/ScrumdingerApp/assets/36514385/3e29d2d5-bc83-45fa-9a00-afcccba96d5c)
 
 **Scrum detail and edit**
 The detail screen shows more information about a scrum, including the name of each attendee and a list of previous meetings.
